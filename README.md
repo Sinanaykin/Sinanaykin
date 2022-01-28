@@ -48,7 +48,7 @@
 [csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [java]: https://www.java.com/tr/
 [javascript]:https://www.javascript.com/
-[angular]: https://angular.io/:https://tr.reactjs.org/
+[angular]: https://angular.io/
 [react]: https://tr.reactjs.org/
 [jquery]: https://jquery.com/
 [flutter]: https://flutter.dev/
