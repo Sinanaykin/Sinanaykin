@@ -20,9 +20,6 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <br />
 
-[linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
-[gmail]: mailto:sinanaykinnn@gmail.com
-<br />
 
 ### 🔧 Languages and Tools:
 
@@ -38,6 +35,10 @@
 [<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
+[gmail]: mailto:sinanaykinnn@gmail.com
 [csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [java]: https://www.java.com/tr/
 [javascript]:https://www.javascript.com/
