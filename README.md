@@ -9,8 +9,9 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
  ### ⏲ What we are doing now:
-I'm developing a project for private Company 🚀.
-I also work as a FreeLancer 🆓 ,I learn new programming languages💻.
+- I'm developing a project for private Company 🚀.
+- I also work as a FreeLancer 🆓 .
+- I learn new programming languages💻.
 
 <br />
 
