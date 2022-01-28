@@ -37,6 +37,16 @@
 <br />
 <br />
 
+
+### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinanaykin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
+
+<br />
+<br />
+
+
 [linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
 [gmail]: mailto:sinanaykinnn@gmail.com
 [csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
