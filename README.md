@@ -22,7 +22,7 @@ I also work as a FreeLancer 🆓 ,I learn new programming languages💻.
 
 <br />
 [linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
-[gmail]: sinanaykinnn@gmail.com
+[gmail]: mailto:sinanaykinnn@gmail.com
 
 <br />
 ### 🔧 Languages and Tools:
