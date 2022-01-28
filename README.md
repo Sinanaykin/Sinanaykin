@@ -8,24 +8,24 @@
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
-
-## ⏲ What we are doing now:
+ ⏲ What we are doing now:
 I'm developing a project for private Company 🚀.
 I also work as a FreeLancer 🆓 ,I learn new programming languages💻.
 
 <br />
 
-### 📩 Connect with me:
+ 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sinanaykinnn@gmail.com.svg" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin:https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
 [gmail]: mailto:sinanaykinnn@gmail.com
 
 <br />
-### 🔧 Languages and Tools:
+
+🔧 Languages and Tools:
 [<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.pnghttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
