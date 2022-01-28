@@ -18,7 +18,7 @@ I also work as a FreeLancer 🆓 ,I learn new programming languages💻.
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sinanaykinnn@gmail.com.svg" />][gmail]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/sinan-ayk%C4%B1n-1167601b5/
