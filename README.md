@@ -20,6 +20,10 @@ I also work as a FreeLancer 🆓 ,I learn new programming languages💻.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]:mailto:sinanaykinnn@gmail.com
 <br />
 
+[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
+[gmail]: mailto:sinanaykinnn@gmail.com
+<br />
+
 🔧 Languages and Tools:
 [<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.pnghttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
